@@ -1,2 +1,2 @@
 # ExpectationMaximization
-Projects developed in my Machine Learning Classes
+A Project developed in my Machine Learning Class (CS559)
