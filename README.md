@@ -1,2 +1,2 @@
 # ExpectationMaximization
-A Project developed in my Machine Learning Class (CS559)
+Implementation of Expectation Maximization used for Gaussian Mixture Models. A Project developed in my Machine Learning Class (CS559)
